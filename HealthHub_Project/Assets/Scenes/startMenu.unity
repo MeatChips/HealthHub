@@ -808,7 +808,7 @@ GameObject:
   - component: {fileID: 701769283}
   - component: {fileID: 701769286}
   m_Layer: 5
-  m_Name: Bos
+  m_Name: Natuur
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -939,7 +939,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f7525c5192caa049830bac1b3858d6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: sceneBos
+  SceneName: sceneNatuur
 --- !u!1 &987354683
 GameObject:
   m_ObjectHideFlags: 0

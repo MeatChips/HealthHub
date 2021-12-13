@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/overOns.unity
     guid: c95f0c2af9b24d54e87f824e46381923
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/sceneBos.unity
     guid: 976fe14f252ee92488305c8c19f946ce
   - enabled: 1
@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sceneEM.unity
     guid: 351156443d8b68945bfa28c5b4eb3935
+  - enabled: 1
+    path: Assets/Scenes/sceneNatuur.unity
+    guid: 52815f125ea0de641b55d15d422ae351
   m_configObjects: {}
